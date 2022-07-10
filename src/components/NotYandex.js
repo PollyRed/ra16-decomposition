@@ -1,3 +1,5 @@
+// Главная страница
+
 import BroadcastBlock from "./BroadcastBlock";
 import CoursesBlock from "./CoursesBlock";
 import NewsBlock from "./NewsBlock";

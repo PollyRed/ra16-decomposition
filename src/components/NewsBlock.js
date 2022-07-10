@@ -1,3 +1,5 @@
+// Новости с новостными категориями
+
 import NewsCategoriesBlock from "./NewsCategoriesBlock";
 import NewsItemsBlock from "./NewsItemsBlock";
 

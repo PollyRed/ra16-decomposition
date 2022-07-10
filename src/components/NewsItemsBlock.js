@@ -1,3 +1,5 @@
+// Новости
+
 import NewsItem from "./NewsItem";
 
 function NewsItemsBlock(props) {

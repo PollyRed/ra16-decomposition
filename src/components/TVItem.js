@@ -1,3 +1,5 @@
+// Элемент в категории "Телепрограмма"
+
 function TVItem(props) {
   return (
     <div className="tv-item">

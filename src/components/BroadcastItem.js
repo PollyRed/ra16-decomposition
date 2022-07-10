@@ -1,3 +1,5 @@
+// Элемент в категории "Эфир"
+
 function BroadcastItem(props) {
   return (
     <div className="broadcast">

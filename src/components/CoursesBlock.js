@@ -1,3 +1,5 @@
+// Курсы
+
 import CourseItem from "./CourseItem";
 
 function CoursesBlock(props) {

@@ -1,3 +1,5 @@
+// Категории новостей
+
 import NewsCategory from "./NewsCategory";
 
 function NewsCategoriesBlock(props) {

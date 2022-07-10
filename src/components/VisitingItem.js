@@ -1,3 +1,5 @@
+// Элемент в категории "Посещаемое"
+
 function VisitingItem(props) {
   return (
     <div className="visit">

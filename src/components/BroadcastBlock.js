@@ -1,3 +1,5 @@
+// Эфир
+
 import BroadcastItem from "./BroadcastItem";
 
 function BroadcastBlock(props) {

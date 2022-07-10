@@ -1,3 +1,5 @@
+// Посещаемое
+
 import VisitingItem from "./VisitingItem";
 
 function VisitingBlock(props) {

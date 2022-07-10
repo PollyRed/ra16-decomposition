@@ -1,3 +1,5 @@
+// Элемент в категории "Курсы"
+
 function CourseItem(props) {
   return (
     <div className="course-item">

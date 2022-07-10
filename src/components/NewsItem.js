@@ -1,3 +1,5 @@
+// Элемент в категории "Новости"
+
 function NewsItem(props) {
   return (
     <div className="news-item">

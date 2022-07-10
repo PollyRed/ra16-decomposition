@@ -1,3 +1,5 @@
+// Поиск
+
 import SearchCategoriesBlock from "./SearchCategoriesBlock";
 
 function SearchBlock(props) {

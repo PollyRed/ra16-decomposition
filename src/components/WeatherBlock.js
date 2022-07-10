@@ -1,3 +1,5 @@
+// Погода
+
 function WeatherBlock(props) {
   return (
     <div>

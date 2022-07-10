@@ -1,3 +1,5 @@
+// Категории поиска
+
 import SearchCategoryItem from "./SearchCategoryItem";
 
 function SearchCategoriesBlock(props) {
